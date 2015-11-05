@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TestSharedElements</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="image_transition">image</string>
+
+    <string name="jessica">Jessica</string>
+    <string name="sunny">Sunny</string>
+    <string name="taeyeon">Taeyeon</string>
+    <string name="tiffany">Tiffany</string>
+    <string name="yoona">Yoona</string>
+    <string name="yuri">Yuri</string>
+    
+    <string name="taeyeon_detail">金泰妍（Taeyeon），1989年3月9日出生于韩国全罗北道全州市，韩国女歌手、主持人，女子演唱团体少女时代成员之一。2004年在第八届SM青少年选拔大赛歌王中夺得第一名，进入韩国SM娱乐有限公司开始练习生生涯。2007年8月以演唱团体少女时代成员身份正式出道。2008年为韩国KBS电视台电视剧《快刀洪吉童》演唱主题曲《如果》；同年12月凭借歌曲《听得见吗》获得第23届韩国金唱片大奖人气奖。2012年与黄美英、徐珠贤组成了少女时代的小分队组合“TaeTiSeo”。</string>
+    <string name="jessica_detail">郑秀妍（Jessica Jung），1989年4月18日出生于美国加利福尼亚州旧金山，韩国女歌手、演员、设计师。2000年，郑秀妍回国探亲时被韩国SM娱乐公司挖掘，成为其旗下练习生，在练习生期间又因为美貌拥有了个人FanClub。2007年8月，以演唱团体少女时代成员身份正式出道，是组合里训练时间最长的成员。2009年，首次在音乐剧《金发尤物》中担任主角“艾莉·伍兹”。</string>
+    <string name="sunny_detail">李顺圭（Sunny）本名李纯揆，1989年5月15日出生于美国加利福利亚州洛杉矶市，韩国女歌手、主持人，女子演唱团体少女时代成员之一。李顺圭原本在其父亲的经纪公司训练了9年，准备以"TINTOP"出道时遇上经纪公司倒闭，未能出道。2007年，她在亚由美的推荐下参加韩国SM娱乐有限公司的选秀，成为旗下练习生；同年8月以演唱团体少女时代正式出道。2009年参与综艺节目《青春不败》。</string>
+    <string name="tiffany_detail">黄美英（Tiffany），1989年8月1日出生于美国加利福尼亚州旧金山市，韩国女歌手、主持人，女子演唱团体少女时代成员之一。2004年，黄美英在洛杉矶参加“S.M. casting System”选秀后进入韩国SM娱乐有限公司成为旗下练习生。2007年8月以演唱团体少女时代正式出道，担任主唱以及副领舞的职务。2009年凭借歌曲《By Myself》入围“第11届Mnet亚洲音乐大奖”最佳OST奖提名。</string>
+    <string name="yuri_detail">权俞利（Yuri），1989年12月5日出生于韩国高阳市，韩国女歌手、演员、主持人，女子演唱团体少女时代成员之一。2001年在首尔参加首届韩国SM娱乐有限公司青少年选拔赛获“最佳舞蹈本赏”后成为旗下练习生。2007年8月以演唱团体少女时代成员身份正式出道。2009年担任音乐节目“MBC音乐中心”的主持人，多次主持年末庆典与演唱会。2012年首次以演员身份主演电视剧《时尚王》，获得韩国SBS演技大奖新星奖与第49届百想艺术大赏电视类最佳人气女演员赏。</string>
+    <string name="yoona_detail">林允儿（Yoona），1990年5月30日出生于韩国首尔，韩国女歌手、演员、主持人，女子演唱团体少女时代成员之一。2002年，林允儿被韩国SM娱乐有限公司发掘，正式进入SM公司成为旗下练习生。2007年8月5日以演唱团体少女时代正式出道。2008年在电视连续剧《你是我的命运》担任女主角，凭借该剧获得第45届百想艺术大赏最佳新人女演员奖。2009年参演电视剧《乞丐变王子》；同年凭借电视剧《你是我的命运》获得百想艺术大奖最佳新人女演员奖。</string>
+</resources>
