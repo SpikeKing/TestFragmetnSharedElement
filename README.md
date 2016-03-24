@@ -1,6 +1,7 @@
 # TestFragmetnSharedElement
-
 使用 SharedElement 动画切换 Fragment 页面
+
+> 欢迎Follow我的[GitHub](https://github.com/SpikeKing)
 
 博客: http://www.wangchenlong.org/
 
